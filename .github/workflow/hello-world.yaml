@@ -24,4 +24,4 @@ job:
       - uses: action/checkout@v2
       - name: hello world
         run: echo "goodby faiz"
-        shell: bash      
+        shell: bash     
